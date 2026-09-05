@@ -8,11 +8,11 @@ Managing multiple passwords and sensitive notes can be difficult and risky if st
 
 ##  Features
 
--  **AES Encryption** – All stored passwords and notes are encrypted before saving
--  **Add/Edit/Delete Entries** – Easily manage your saved credentials and notes
--  **Search Functionality** – Quickly find saved entries
--  **Simple GUI** – Built with Java Swing for a clean, intuitive desktop experience
--  **Local Storage** – Your data stays on your device, not on any external server
+-  <b>AES Encryption</b>- All stored passwords and notes are encrypted before saving
+-  <b>Add/Edit/Delete Entries</b>- Easily manage your saved credentials and notes
+-  <b>Search Functionality</b> – Quickly find saved entries
+-  <b>Simple GUI</b> – Built with Java Swing for a clean, intuitive desktop experience
+-  <b>Local Storage</b> – Your data stays on your device, not on any external server
 
 ## Tech Stack
 
@@ -64,7 +64,7 @@ notes-password-manager/
 
 ## Author
 
-**Kanchan Suresh Salunkhe**
+**Kanchan Suresh Salunkhe**<br>
 Entry-level Java/Android Developer | Satara, Maharashtra
 
 ## License
