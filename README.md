@@ -16,15 +16,10 @@ Managing multiple passwords and sensitive notes can be difficult and risky if st
 
 ## Tech Stack
 
-- **Language:** Java
-- **GUI Framework:** Java Swing
-- **Security:** AES Encryption
-- **Storage:** Local file-based storage
-
-## Screenshots
-
-<!-- Add 2-3 screenshots of your application here -->
-<!-- Example: ![Home Screen](screenshots/home.png) -->
+- <b>Language:</b> Java
+- <b>GUI Framework:</b> Java Swing
+- <b>Security:</b> AES Encryption
+- <b>Storage:</b> Local file-based storage
 
 ## Getting Started
 
