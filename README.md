@@ -65,7 +65,8 @@ notes-password-manager/
 ## Author
 
 **Kanchan Salunkhe**<br>
-Entry-level Java/Android Developer | Satara, Maharashtra
+Entry-level Software Developer | Pune, Maharashtra <br>
+[Linkedin](https://www.linkedin.com/in/kanchan85)
 
 ## License
 
