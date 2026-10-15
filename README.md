@@ -68,6 +68,6 @@ notes-password-manager/
 Entry-level Software Developer | Pune, Maharashtra <br>
 [Linkedin](https://www.linkedin.com/in/kanchan85)
 
-## License
+##📄 License
 
 This project is open source and available for learning/demo purposes.
